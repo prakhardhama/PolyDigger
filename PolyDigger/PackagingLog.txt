@@ -1,0 +1,24 @@
+mcc -C -o PolyDigger -W WinMain:PolyDigger -T link:exe -d D:\Matlab\PolyDigger\PolyDigger\for_testing -v D:\Matlab\PolyDigger\PolyDigger.m -a D:\Matlab\PolyDigger\cg_mini.png 
+Compiler version: 6.1 (R2015b)
+
+Dependency analysis by REQUIREMENTS.
+
+[Warning: Adding path "D:\Matlab\PolyDigger" to Compiler path instance.] 
+[] 
+Parsing file "D:\Matlab\PolyDigger\PolyDigger.m"
+	(Referenced from: "Compiler Command Line").
+Deleting 4 temporary MEX authorization files.
+Removing: 'C:\Users\PRAKHA~1\AppData\Local\Temp\mathworks_tmp_00cac4279_3244.auth'.
+Removing: 'C:\Users\PRAKHA~1\AppData\Local\Temp\mathworks_tmp_00cac31069_3244.auth'.
+Removing: 'C:\Users\PRAKHA~1\AppData\Local\Temp\mathworks_tmp_00cac8989_3244.auth'.
+Removing: 'C:\Users\PRAKHA~1\AppData\Local\Temp\mathworks_tmp_00cac23097_3244.auth'.
+Generating file "D:\Matlab\PolyDigger\PolyDigger\for_testing\readme.txt".
+Packaging...
+Adding custom icon C:\Program Files\MATLAB\R2015b\toolbox\compiler\Resources\default_icon.ico to D:\Matlab\PolyDigger\PolyDigger\for_testing\PolyDigger.exe.
+Attempting to embed the CTF archive into the application D:\Matlab\PolyDigger\PolyDigger\for_testing\PolyDigger.exe.
+Finished embedding CTF archive. Deleting the external CTF archive.
+Creating the bundle...
+Web based installer created at D:\Matlab\PolyDigger\PolyDigger\for_redistribution\PolyDiggerInstaller_web.exe.
+Self contained installer created at D:\Matlab\PolyDigger\PolyDigger\for_redistribution\PolyDiggerInstaller_mcr.exe.
+Packaging complete.
+Elapsed packaging time was: 2 minutes and 20 seconds.
