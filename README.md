@@ -8,4 +8,6 @@ the user, then randomly generate n distinct points with x and y coordinates in 2
 
 3. For each monotone partition (polygon), perform triangulation using the line-sweep (plane-sweep) algorithm.
 
+Demo Video Link:-
+
 [![CG Project](http://img.youtube.com/vi/e_8mD1xageE/0.jpg)](https://www.youtube.com/watch?v=e_8mD1xageE "CG Project")
